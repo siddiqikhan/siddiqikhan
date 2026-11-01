@@ -8,7 +8,7 @@ My primary focus is building AI-powered software applications, developing automa
 
 ---
 
-🚀 CORE AI EXPERTISE
+CORE AI EXPERTISE
 
 1. AI Software & Application Development
 
